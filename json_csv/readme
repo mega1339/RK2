@@ -1,0 +1,2 @@
+gcc -o main2 main2.c cJSON.c
+./main2
